@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "あの世行きのバスに乗ってさらば。",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-15T15:19:27.963906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの世行きのバスに乗ってさらば。",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_あの世行きのバスに乗ってさらば。_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "06. あの世行きのバスに乗ってさらば。",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_06._あの世行きのバスに乗ってさらば。_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの世行きのバスに乗ってさらば。",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/03_あの世行きのバスに乗ってさらば。_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの世行きのバスに乗ってさらば",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/04_あの世行きのバスに乗ってさらば_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツユ - あの世行きのバスに乗ってさらば。 MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/05_ツユ_-_あの世行きのバスに乗ってさらば。_MV_TUYU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの世行きのバスに乗ってさらば。",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_あの世行きのバスに乗ってさらば。_ツユ.txt"
+    }
+  ]
+}
